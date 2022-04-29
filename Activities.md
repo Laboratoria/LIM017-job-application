@@ -54,7 +54,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td><!-- 5 de mayo --></td>
     <td>
       <b>Preparación de CV y Linkedin</b>
       <p>
