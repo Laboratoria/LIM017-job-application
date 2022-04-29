@@ -28,7 +28,7 @@ compartimos mutuamente) es importante que te prepares para los procesos de
 selección en los que participarás  una vez que termine el bootcamp.
 
 Sabemos que hablar de búsqueda de empleo a estas alturas puede dar nervios,
-ansiedad, expectativas etc .. pero no te preocupes, empezamos a hablar del tema
+ansiedad, expectativas etc... pero no te preocupes, empezamos a hablar del tema
 para que te prepares y para acompañarte de la mejor forma en esta preparación.
 
 Si bien el objetivo del Bootcamp es prepararte para trabajar, dado el desfase
@@ -121,7 +121,7 @@ acompañamiento te dejamos la siguiente guía para las sesiones de mentorías.
   ejemplo 2 horas del viernes) para avanzar en este proyecto.
 - Como podrás ver tiene algunas cosas diferentes a los otros proyectos del
   bootcamp, en este tendremos etapas y un calendario con algunas fechas pre
-  establecidas.También hay algunas cosas muy parecidas a los otros proyectos del
+  establecidas. También hay algunas cosas muy parecidas a los otros proyectos del
   bootcamp, tienes una serie de recursos que puedes consultar como guía, podrás
   pedir ayudantías y feedback a lo largo del avance del proyecto.
 - Tendrás vínculo con personas externas que se unen al bootcamp para apoyar tu
