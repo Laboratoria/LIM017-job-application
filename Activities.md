@@ -22,7 +22,7 @@
       <ul>
         <li> <a href="https://github.com/Laboratoria/LIM017-job-application"> Readme del proyecto</a></li>
         <li> <a href="https://www.loom.com/share/eff20dfbb64a488abb6181acd95a8dbf"> Pildora: Cómo funciona un proceso de selección</a></li>
-        <li>Q&A Readme del proyecto (Slido)</li>
+        <li> <a href="https://app.sli.do/event/nspueE6JsL4sgmFuoJ3gGk"> Q&A Readme del proyecto (Slido)</a></li>
       </ul>
     </td>
     <td>NA</td>
@@ -33,7 +33,7 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>9 y 12 de mayo</td>
     <td>
       <b>Autoconocimiento</b>
       <p>
@@ -47,14 +47,14 @@
     <td>
       <ul>
         <li>Taller: Historia de vida y habilidades transferibles.</li>
-        <li>Píldora: About me y pitch.</li>
+         <li> <a href="https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/edit#slide=id.g10f517c8353_0_0"> Píldora: About me y pitch.</a></li> 
         <li>Espacio grupal para compartir “about me” y dar y recibir feedback.</li>
       </ul>
     </td>
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- 5 de mayo --></td>
+    <td>9 al 23 de mayo</td>
     <td>
       <b>Preparación de CV y Linkedin</b>
       <p>
@@ -68,17 +68,17 @@
     </td>
     <td>
       <ul>
-        <li>Pildora: CV en la industria tech.</li>
-        <li>Pildora: Funcionamiento de Linkedin</li>
-        <li>Píldora: Recomendaciones para la foto.</li>
+        <li> <a href="https://www.loom.com/share/b682c1f7b7964641a5fe1b8acfcf4b8e"> Pildora: CV en la industria tech</a></li> 
+        <li> <a href="https://www.loom.com/share/8c43a7129e654962bb53ea1a74088a9b"> Pildora: Funcionamiento de Linkedin</a></li>  
+        <li> <a href="https://www.loom.com/share/cb019555280444ada9dacab2810fefdb"> Píldora: Recomendaciones para la foto.</a></li> 
         <li>Ayudantías con el equipo (opcionales).</li>
         <li>Q&A externxs / placement.</li>
       </ul>
     </td>
-    <td>Primera versión del CV + LinkedIn</td>
+    <td>23 de mayo: Primera versión del CV + LinkedIn</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>19 y 26 de mayo</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -88,14 +88,14 @@
     </td>
     <td>
       <ul>
-        <li>Píldora: Tips y buenas prácticas entrevista RRHH.</li>
-        <li>Píldora: Negociación salario y condiciones laborales.</li>
+        <li> <a href="https://www.youtube.com/watch?v=HjOUpKgbdIM"> Píldora: Tips y buenas prácticas entrevista RRHH.</a></li> 
+        <li> <a href="https://www.loom.com/share/082a12d5a30a4f9bb1afd951ccba0b39"> Píldora: Negociación salario y condiciones laborales.</a></li> 
       </ul>
     </td>
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Entre el 23 y el 26 de mayo, por definir</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
