@@ -95,7 +95,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td>Entre el 23 y el 26 de mayo, por definir</td>
+    <td>check out del 23 de mayo</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
@@ -117,7 +117,7 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>23 de mayo 7 P.M.</td>
     <td>
       <b>Meet and greet + sesión revisión y feedback CV</b>
       <p>
