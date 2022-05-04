@@ -46,9 +46,10 @@
     </td>
     <td>
       <ul>
-        <li>Taller: Historia de vida y habilidades transferibles.</li>
+        <li> <a href="https://docs.google.com/presentation/d/1QVX59zcei0nJaFNWpq7F1zKy9nyh6ZwwY3pqq3ZgSOA/edit?usp=sharing"> Prework taller</a></li>
+        <li>Taller: Historia de vida y habilidades transferibles (9 de mayo).</li>
          <li> <a href="https://docs.google.com/presentation/d/18L3EXGPmOAJoZYdthmJ7xiEu2wOrTUzdsoDgG-2qJRY/edit#slide=id.g10f517c8353_0_0"> Píldora: About me y pitch.</a></li> 
-        <li>Espacio grupal para compartir “about me” y dar y recibir feedback.</li>
+        <li>Espacio grupal para compartir “about me” y dar y recibir feedback (12 de mayo).</li>
       </ul>
     </td>
     <td>NA</td>
