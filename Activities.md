@@ -206,13 +206,13 @@
     </td>
     <td>
       <ul>
-        <li>Guía de sesiones de preparación (apartado en el read me).</li>
+        <li> <a href="https://github.com/Laboratoria/LIM017-job-application/blob/main/Mentoring.md">Guía sesiones de mentoría (apartado en el read me).</li>
       </ul>
     </td>
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>16 de junio</td>
     <td>
       <b>Preparación perfil Github</b>
       <p>
