@@ -138,7 +138,7 @@
     <td>Segunda versión del CV con recomendaciones incorporadas.</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>del 30 de mayo al 3 de junio</td>
     <td>
       <b>Sesión revisión y feedback LinkedIn</b>
       <p>
@@ -152,7 +152,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>del 6 de junio al 17 de junio</td>
     <td>
       <b>Simulación de entrevista RH</b>
       <p>
@@ -163,10 +163,8 @@
     </td>
     <td>
       <ul>
-        <li>Guía sesiones de mentoría (apartado en el read me).</li>
-        <li>
-          Form autoevaluación estudiante y evaluación a la persona que te
-          entrevistó.
+        <li> <a href="https://github.com/Laboratoria/LIM017-job-application/blob/main/Mentoring.md">Guía sesiones de mentoría (apartado en el read me).</li>
+        <li> <a href="https://forms.gle/dP6KC7pztUetw4c2A">Form de autoevaluación y feedback de mentor/a.</a></li> 
         </li>
       </ul>
     </td>
@@ -182,7 +180,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>23 de junio, en horario de LS</td>
     <td>
       <b>Retrospectiva grupal de simulación de entrevista RH</b>
       <p>
@@ -208,7 +206,7 @@
     </td>
     <td>
       <ul>
-        <li>Guía de sesiones de preparación ((apartado en el read me).</li>
+        <li>Guía de sesiones de preparación (apartado en el read me).</li>
       </ul>
     </td>
     <td>NA</td>
