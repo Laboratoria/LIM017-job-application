@@ -193,7 +193,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>Martes 31 de mayo y martes 14 de junio durante el Gym</td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
