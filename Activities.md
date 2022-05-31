@@ -222,8 +222,9 @@
     </td>
     <td>
       <ul>
-        <li>Píldora: Perfil de Github para la búsqueda de empleo.</li>
-        <li>Ayudantías para ver perfil de Github (opcionales).</li>
+        <li><a href="https://www.youtube.com/watch?v=vQ_EBqgUR0c">Píldora: Perfil de Github para la búsqueda de empleo.</a></li>
+        <li><a href="https://docs.google.com/presentation/d/1Ntaj8IuE4Fcbe6Pbwt1bZwu2f6brA468oKmK6Qefs5s/edit?usp=sharing">PPT pill recomendaciones para crear tu perfil de Github.</a></li>
+        <li>Ayudantías para ver perfil de Github con coaches (OH opcionales).</li>
       </ul>
     </td>
     <td>Primera versión del perfil de GitHub</td>
@@ -244,7 +245,7 @@
     </td>
     <td>
       <ul>
-        <li>Pildora: Buenas prácticas entrevistas tech</li>
+        <li><a href="https://www.youtube.com/watch?v=0NMil00HKEU">Pildora: Buenas prácticas entrevistas tech.</a></li>
       </ul>
     </td>
     <td>NA</td>
