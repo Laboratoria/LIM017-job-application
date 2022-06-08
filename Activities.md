@@ -90,7 +90,7 @@
     <td>
       <ul>
         <li> <a href="https://www.youtube.com/watch?v=HjOUpKgbdIM"> Píldora: Tips y buenas prácticas entrevista RRHH.</a></li> 
-        <li> <a href="https://www.loom.com/share/082a12d5a30a4f9bb1afd951ccba0b39"> Píldora: Negociación salario y condiciones laborales.</a></li> 
+        <li> <a href="https://drive.google.com/file/d/1BJz3dWOzIUAoTyCclnKpZlQRRAZ4vxv_/view?usp=sharing"> Píldora: Negociación salario y condiciones laborales.</a></li> 
       </ul>
     </td>
     <td>NA</td>
