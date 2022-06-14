@@ -235,7 +235,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>14 de junio</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
@@ -251,7 +251,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>del 20 de junio al 1 de julio</td>
     <td>
       <b>Simulación de entrevista técnica </b>
       <p>
